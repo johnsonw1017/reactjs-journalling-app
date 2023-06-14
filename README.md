@@ -10,4 +10,9 @@
 - photo upload feature in homepage and journal page
 
 ## File structure
--
+- src: Source code
+    - components - each functional component file
+    - contexts - allows data to be passed down the component tree without passing props, this is where reducers and local storage is as well
+    - pages - HTML rendered on each page
+- App.js - content rendered to the client - routes
+- index.js - configuration and startup, css codes go in index.css
