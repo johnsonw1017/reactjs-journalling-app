@@ -16,3 +16,8 @@
     - pages - HTML rendered on each page
 - App.js - content rendered to the client - routes
 - index.js - configuration and startup, css codes go in index.css
+
+## Project Plan
+### 14 June
+[x] Create skeleton of app - file structure and placeholder files
+[ ] Organise routes in App.js
