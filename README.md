@@ -17,7 +17,12 @@
 - App.js - content rendered to the client - routes
 - index.js - configuration and startup, css codes go in index.css
 
-## Project Plan
-### 14 June
+## Project Day Plans
+### 14 June 2023
 [x] Create skeleton of app - file structure and placeholder files
-[ ] Organise routes in App.js
+[x] Organise routes in App.js
+
+### 15 June 2023
+[ ] Create Homepage with placeholder text
+[ ] Figure out how to include rich text editor
+[ ] Start on NoteContext - local storage
